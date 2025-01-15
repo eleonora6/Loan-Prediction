@@ -1,1 +1,3 @@
-# Loan-Prediction
+This project uses the dataset Loan Prediction Problem Dataset from Kaggle: https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset/data. 
+It contains data about loan applicants, including personal details, financial information and the outcome of their loan applications. As a result of missing values in the provided test file, the training file was split into training and test data. 
+The goal of this analysis is to  gain insights through an exploratory analysis in order to prepare the data for building predictive models for loan eligibility. The following models were tested on this dataset:Decision Tree Classifier, Random Forest Classifier, Naive Bayes Classifier (Gaussian,Bernoulli Naive Bayes), Logistic Regression, Ridge Classifier and K-Nearest Neighbors. In the end the most appropriate model is chosen for deployment. 
